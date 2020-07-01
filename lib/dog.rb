@@ -3,4 +3,4 @@ class Dog
     @the_consistent_name= dogs_name
   end
   def name 
-    @consis
+    @the_consistent_name
