@@ -1,5 +1,5 @@
 class Dog 
-  def name=(dgos_name)
+  def name=(dogs_name)
     @the_consistent_name= dogs_name
   end
   def name 
