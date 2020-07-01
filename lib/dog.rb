@@ -4,4 +4,5 @@ class Dog
   end
   def name 
     @the_consistent_name
-    
+  end
+  
