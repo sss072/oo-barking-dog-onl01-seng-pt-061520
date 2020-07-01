@@ -5,5 +5,7 @@ class Dog
   def name 
     @the_consistent_name
   end
+  def bark 
+    puts "woof!"
   
 end
