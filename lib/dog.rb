@@ -6,3 +6,4 @@ class Dog
     @the_consistent_name
   end
   
+end
